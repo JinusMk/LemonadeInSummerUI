@@ -1,0 +1,135 @@
+header, .fresh-twist {
+    background-color:  #FFFF33;
+    padding-bottom: 40px;
+}
+body{
+
+    font-family: 'Roboto', sans-serif;
+}
+ .nav-link .borderbottom a {
+    font-weight: 300;
+    font-size: 34px !important;
+    letter-spacing: 2px;
+}
+header .borderbottom a{
+    color: #009e69 !important; border-bottom: 1px solid #D6D212;
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    border-bottom-color: rgb(214, 210, 18);
+    font-size: 20px;
+}
+a:hover{
+    text-decoration: none;
+}
+.test:after {
+    content: '\2807';
+    font-size: 1.5em;
+    color: #2e8d2e
+}
+.container {
+    margin-right: auto;
+    margin-left: auto;
+    padding-left: 15px;
+    padding-right: 15px;
+    width: 800px;
+}
+.text-center{
+    text-align: center
+}
+.parent {
+    background:white;
+    height: 150px;
+    position: relative;
+}
+.inner {
+    width: 175px;
+    height: 150px;
+    background: white;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.nav-link{
+    font-family: 'Roboto Condensed', sans-serif !important;
+    display: inline-block;
+}
+
+.nav-link.dropdown{
+    position: absolute;
+    top:20px;
+    right: 30px;
+}
+
+.container {
+    color: #949494;
+    font-size: 12px;
+}
+
+.building-ideas{
+    padding: 60px 0;
+}.building-ideas .text{
+    padding-top: 80px;
+    font-size: 14px;
+}.building-ideas .row{
+    margin-bottom: 80px;
+}
+ .services {padding-bottom:50px;}
+ .services a{
+     color: #949494;
+ }.services a h5{
+
+       color: #009e69;
+       font-size: 16px;
+       font-weight: 400;
+       margin-top: 20px;
+ }
+  .services .row{
+      border-bottom: 1px solid lightgray;
+      padding-bottom: 40px;
+  }
+  .projects{
+      padding-top: 20px;
+  }
+  .line{
+    text-align: center;
+      border-bottom: 1px solid lightgray;
+      margin: 20px 0 60px;
+
+  }
+  a{
+      color: #009e69 !important;
+  }
+  .line a{
+      position: relative;top:10px
+      ;background-color: white;
+      padding: 10px;
+      color: #009e69;
+  }
+  .card-link{
+      display: inline-block;
+      padding: 5px 6px ;
+      border: 1px solid lightgray;
+      color: rgba(0,0,0,0.5);
+      font-size: 0.9em;
+      margin: 0;
+      min-width: 100px;
+      text-align: center;
+  }
+  .card-subtitle{
+      font-size: 10px;
+  }
+.card-title{
+    font-size: 15px;
+    padding-bottom: 3px;
+}
+.dropdown-menu li{
+
+    padding: 10px 30px;
+}.dropdown-menu li:hover{
+
+background-color: rgba(0,0,0,0.05);
+}
+ .btn{
+     outline: none!important;
+ }
